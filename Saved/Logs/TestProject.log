@@ -679,4 +679,395 @@
 [2015.10.28-19.36.03:018][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap (0.032210s)
 [2015.10.28-19.36.03:094][947]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
 [2015.10.28-19.36.03:105][947]LogInit: FAudioDevice initialized.
-[
+[2015.10.28-19.36.03:146][947]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.10.28-19.36.03:154][947]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-19.36.03:156][947]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap up for play (max tick rate 60) at 2015.10.28-15.36.03
+[2015.10.28-19.36.03:156][947]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameSession_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-19.36.03:156][947]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameNetworkManager_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-19.36.03:157][947]LogWorld: Bringing up level for play took: 0.010012
+[2015.10.28-19.36.03:159][947]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap -0.105
+[2015.10.28-19.36.03:159][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-19.36.20:018][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-19.36.20:122][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-19.36.20:223][949]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000477499E0
+[2015.10.28-19.46.17:811][470]LogSavePackage: Save=174.933807ms
+[2015.10.28-19.46.17:811][470]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/FirstPersonLadderMap_Auto7E1F52F294D3B7DCAA9635598BDE1CA01.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonLadderMap_Auto7.umap'
+[2015.10.28-19.46.17:813][470]LogSavePackage: Total save time: 202.767592ms
+[2015.10.28-19.46.17:813][470]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonLadderMap_Auto7.umap
+[2015.10.28-19.46.17:815][470]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonLadderMap' took 0.274
+[2015.10.28-19.46.17:815][470]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2015.10.28-20.00.51:238][655]LogSavePackage: Save=194.607498ms
+[2015.10.28-20.00.51:238][655]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/FirstPersonLadderMap5F12E7C74C6F4F4C28914BBFC3D9A436.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap'
+[2015.10.28-20.00.51:244][655]LogSavePackage: Total save time: 231.970947ms
+[2015.10.28-20.00.51:244][655]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap
+[2015.10.28-20.00.51:341][655]LogFileHelpers: Saving map 'FirstPersonLadderMap' took 0.538
+[2015.10.28-20.00.52:815][718]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.00.52:815][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.10.28-20.00.52:815][718]PIE: New page: PIE session: FirstPersonLadderMap (Oct 28, 2015, 12:00:52 PM)
+[2015.10.28-20.00.52:815][718]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap
+[2015.10.28-20.00.52:873][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057907s)
+[2015.10.28-20.00.52:875][718]LogAIModule: Creating AISystem for world FirstPersonLadderMap
+[2015.10.28-20.00.52:875][718]LogPlayLevel: PIE: World Init took: (0.002311s)
+[2015.10.28-20.00.52:876][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap (0.060575s)
+[2015.10.28-20.00.52:961][718]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.10.28-20.00.52:976][718]LogInit: FAudioDevice initialized.
+[2015.10.28-20.00.53:021][718]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.10.28-20.00.53:028][718]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.00.53:030][718]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap up for play (max tick rate 0) at 2015.10.28-16.00.53
+[2015.10.28-20.00.53:030][718]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameSession_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.00.53:031][718]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameNetworkManager_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.00.53:031][718]LogWorld: Bringing up level for play took: 0.009641
+[2015.10.28-20.00.53:034][718]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap -0.278
+[2015.10.28-20.00.53:034][718]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.01.29:593][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.01.29:685][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.01.29:739][460]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000050C77060
+[2015.10.28-20.02.39:703][ 82]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'ladderBP', cached variable property's owner is '/Script/Engine.StaticMeshActor'
+[2015.10.28-20.02.54:984][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ladderBP" FILE="../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset" SILENT=true
+[2015.10.28-20.02.55:061][548]LogSavePackage: Save=62.675022ms
+[2015.10.28-20.02.55:061][548]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/ladderBPEB18BA3842B3EDBFEEB1FBA7BE2B477A.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset'
+[2015.10.28-20.02.55:065][548]LogSavePackage: Total save time: 78.380141ms
+[2015.10.28-20.02.55:065][548]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset
+[2015.10.28-20.02.57:959][757]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.02.57:959][757]BlueprintLog: New page: Pre-Play auto-recompile
+[2015.10.28-20.02.57:969][757]LogPlayLevel: [PlayLevel] Compiling ladderBP before play...
+[2015.10.28-20.02.58:056][757]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (1 blueprints)
+[2015.10.28-20.02.58:113][757]PIE: New page: PIE session: FirstPersonLadderMap (Oct 28, 2015, 12:02:58 PM)
+[2015.10.28-20.02.58:113][757]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap
+[2015.10.28-20.02.58:146][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032787s)
+[2015.10.28-20.02.58:148][757]LogAIModule: Creating AISystem for world FirstPersonLadderMap
+[2015.10.28-20.02.58:149][757]LogPlayLevel: PIE: World Init took: (0.003101s)
+[2015.10.28-20.02.58:149][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap (0.036514s)
+[2015.10.28-20.02.58:221][757]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.10.28-20.02.58:231][757]LogInit: FAudioDevice initialized.
+[2015.10.28-20.02.58:267][757]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.10.28-20.02.58:273][757]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.02.58:274][757]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap up for play (max tick rate 0) at 2015.10.28-16.02.58
+[2015.10.28-20.02.58:274][757]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameSession_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.02.58:275][757]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameNetworkManager_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.02.58:275][757]LogWorld: Bringing up level for play took: 0.007533
+[2015.10.28-20.02.58:277][757]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap 0.962
+[2015.10.28-20.02.58:277][757]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.03.32:067][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.03.32:160][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.03.32:257][265]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000045AB71A0
+[2015.10.28-20.04.56:618][829]LogSavePackage: Save=194.514069ms
+[2015.10.28-20.04.56:618][829]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/FirstPersonLadderMap8CBB7CC64084FEE44DC3D9955BB22A6A.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap'
+[2015.10.28-20.04.56:622][829]LogSavePackage: Total save time: 211.401552ms
+[2015.10.28-20.04.56:622][829]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap
+[2015.10.28-20.04.56:696][829]LogFileHelpers: Saving map 'FirstPersonLadderMap' took 0.456
+[2015.10.28-20.04.56:733][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ladderBP" FILE="../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset" SILENT=true
+[2015.10.28-20.04.56:818][829]LogSavePackage: Save=74.721939ms
+[2015.10.28-20.04.56:818][829]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/ladderBPD0DB3077440C61DE8B9CA49D45B7F07D.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset'
+[2015.10.28-20.04.56:822][829]LogSavePackage: Total save time: 85.728753ms
+[2015.10.28-20.04.56:822][829]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset
+[2015.10.28-20.05.23:804][369]MapCheck: New page: Map Check
+[2015.10.28-20.05.23:853][369]Cmd: MAP REBUILD ALLVISIBLE
+[2015.10.28-20.05.23:853][369]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2015.10.28-20.05.23:867][369]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.05.23:906][369]LogActorComponent: UnregisterComponent: (/Engine/Transient.ProjectileMovementComponent_40__A6522401) Not registered. Aborting.
+[2015.10.28-20.05.23:957][369]MapCheck:Warning: Warning WorldInfo_0 Hierarchical LOD System is disabled or no HLOD level settings available, unable to build LOD actors. 
+[2015.10.28-20.05.23:957][369]LogStats:          STAT_HLOD_BuildClusters - 85.436 ms
+[2015.10.28-20.05.23:958][369]LightingResults: New page: Lighting Build - Oct 28, 2015, 12:05:23 PM
+[2015.10.28-20.05.28:549][369]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2015.10.28-20.05.28:549][369]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2015.10.28-20.05.28:550][369]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2015.10.28-20.05.28:550][369]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2015.10.28-20.05.28:550][369]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2015.10.28-20.05.28:963][369]LogEditorBuildUtils: Build time 0:00:05
+[2015.10.28-20.05.31:209][443]LightingResults:Error: Error ladder Object has overlapping UVs.
+[2015.10.28-20.05.31:209][443]LightingResults: Info ladder Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2015.10.28-20.05.31:717][466]Job is a success!
+[2015.10.28-20.05.31:829][467]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.05.31:864][467]LogTexture:Display: Building textures: SkyOcclusion1_1 (AutoDXT)
+[2015.10.28-20.05.31:872][467]LogTexture:Display: Building textures: LQ_Lightmap_1_7 (DXT1)
+[2015.10.28-20.05.31:874][467]LogTexture:Display: Building textures: HQ_Lightmap1_7 (AutoDXT)
+[2015.10.28-20.05.31:877][467]LogTexture:Display: Building textures: SkyOcclusion1_7 (AutoDXT)
+[2015.10.28-20.05.31:885][467]LogTexture:Display: Building textures: LQ_Lightmap_1_6 (DXT1)
+[2015.10.28-20.05.31:888][467]LogTexture:Display: Building textures: HQ_Lightmap1_6 (AutoDXT)
+[2015.10.28-20.05.31:891][467]LogTexture:Display: Building textures: SkyOcclusion1_6 (AutoDXT)
+[2015.10.28-20.05.31:902][467]LogTexture:Display: Building textures: LQ_Lightmap_1_5 (DXT1)
+[2015.10.28-20.05.31:905][467]LogTexture:Display: Building textures: HQ_Lightmap1_5 (AutoDXT)
+[2015.10.28-20.05.31:908][467]LogTexture:Display: Building textures: SkyOcclusion1_5 (AutoDXT)
+[2015.10.28-20.05.31:913][467]LogTexture:Display: Building textures: LQ_Lightmap_1_4 (DXT1)
+[2015.10.28-20.05.31:915][467]LogTexture:Display: Building textures: HQ_Lightmap1_4 (AutoDXT)
+[2015.10.28-20.05.31:919][467]LogTexture:Display: Building textures: SkyOcclusion1_4 (AutoDXT)
+[2015.10.28-20.05.31:928][467]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2015.10.28-20.05.31:930][467]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2015.10.28-20.05.31:933][467]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2015.10.28-20.05.31:941][467]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2015.10.28-20.05.31:943][467]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2015.10.28-20.05.31:945][467]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2015.10.28-20.05.31:951][467]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2015.10.28-20.05.31:953][467]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2015.10.28-20.05.31:959][467]LogTexture:Display: Building textures: ShadowMapTexture2D_18 (G8)
+[2015.10.28-20.05.31:966][467]LogTexture:Display: Building textures: ShadowMapTexture2D_19 (G8)
+[2015.10.28-20.05.31:972][467]LogTexture:Display: Building textures: ShadowMapTexture2D_20 (G8)
+[2015.10.28-20.05.31:978][467]LogTexture:Display: Building textures: ShadowMapTexture2D_21 (G8)
+[2015.10.28-20.05.31:983][467]LogTexture:Display: Building textures: ShadowMapTexture2D_22 (G8)
+[2015.10.28-20.05.31:988][467]LogTexture:Display: Building textures: ShadowMapTexture2D_23 (G8)
+[2015.10.28-20.05.32:025][467]Lightmass on ELDRER-PC: 2.40 sec total, 409 ms importing, 3 ms setup, 654 ms photons, 1.31 sec processing, 0 ms extra exporting [7/7 mappings]. Threads: 5.21 sec total, 1.45 sec processing.
+[2015.10.28-20.05.32:059][467]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.05.32:220][467]LogStaticLightingSystem: Illumination: 8.12 sec (151 ms encoding lightmaps)
+[2015.10.28-20.05.32:220][467]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 14 textures
+[2015.10.28-20.05.32:220][467]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 24 textures
+[2015.10.28-20.05.32:570][468]Cmd: MAP CHECK NOTIFYRESULTS
+[2015.10.28-20.05.32:570][468]MapCheck: New page: FirstPersonLadderMap - Oct 28, 2015, 12:05:32 PM
+[2015.10.28-20.05.32:662][468]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 92.168ms to complete.
+[2015.10.28-20.05.36:884][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.05.36:884][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.10.28-20.05.36:884][646]PIE: New page: PIE session: FirstPersonLadderMap (Oct 28, 2015, 12:05:36 PM)
+[2015.10.28-20.05.36:884][646]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap
+[2015.10.28-20.05.36:936][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052080s)
+[2015.10.28-20.05.36:938][646]LogAIModule: Creating AISystem for world FirstPersonLadderMap
+[2015.10.28-20.05.36:938][646]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2015.10.28-20.05.36:939][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap (0.054371s)
+[2015.10.28-20.05.37:008][646]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.10.28-20.05.37:020][646]LogInit: FAudioDevice initialized.
+[2015.10.28-20.05.37:059][646]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.10.28-20.05.37:068][646]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.05.37:070][646]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap up for play (max tick rate 0) at 2015.10.28-16.05.37
+[2015.10.28-20.05.37:070][646]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameSession_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.05.37:070][646]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameNetworkManager_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.05.37:071][646]LogWorld: Bringing up level for play took: 0.010561
+[2015.10.28-20.05.37:073][646]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap -0.248
+[2015.10.28-20.05.37:073][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.08.52:982][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.08.53:071][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.08.53:161][758]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000474C0220
+[2015.10.28-20.09.14:441][638]LogSavePackage: Save=190.277252ms
+[2015.10.28-20.09.14:441][638]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/FirstPersonLadderMap32ACE36B47771C756AD72984180030E0.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap'
+[2015.10.28-20.09.14:449][638]LogSavePackage: Total save time: 228.131548ms
+[2015.10.28-20.09.14:449][638]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap
+[2015.10.28-20.09.14:517][638]LogFileHelpers: Saving map 'FirstPersonLadderMap' took 0.458
+[2015.10.28-20.09.14:552][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ladderBP" FILE="../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset" SILENT=true
+[2015.10.28-20.09.14:640][638]LogSavePackage: Save=71.287041ms
+[2015.10.28-20.09.14:640][638]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/ladderBPD811AB30425A543F09A2CD92153C9587.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset'
+[2015.10.28-20.09.14:643][638]LogSavePackage: Total save time: 88.857889ms
+[2015.10.28-20.09.14:643][638]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset
+[2015.10.28-20.09.44:091][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ladderBP" FILE="../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset" SILENT=true
+[2015.10.28-20.09.44:164][311]LogSavePackage: Save=64.574371ms
+[2015.10.28-20.09.44:165][311]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/ladderBP78ECF47B43EBE57C8C787585A6E25D52.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset'
+[2015.10.28-20.09.44:168][311]LogSavePackage: Total save time: 74.513137ms
+[2015.10.28-20.09.44:168][311]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset
+[2015.10.28-20.09.46:823][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.09.46:823][507]BlueprintLog: New page: Pre-Play auto-recompile
+[2015.10.28-20.09.46:834][507]LogPlayLevel: [PlayLevel] Compiling ladderBP before play...
+[2015.10.28-20.09.46:897][507]LogBlueprint:Warning: [compiler ladderBP] Warning 'Character' does not inherit from 'Player Controller' ( Cast To Character  would always fail).
+[2015.10.28-20.09.46:900][507]LogBlueprint:Warning: [compiler ladderBP] Warning [7292.03] Compile of ladderBP successful, but with 1 Warning(s) [in 58 ms]
+[2015.10.28-20.09.46:901][507]LogBlueprint:Warning: [compiler ladderBP] Warning [7292.03] Compile of ladderBP successful, but with 2 Warning(s) [in 0 ms]
+[2015.10.28-20.09.46:901][507]LogBlueprint:Warning: [compiler ladderBP] Warning [7292.03] Compile of ladderBP successful, but with 3 Warning(s) [in 0 ms]
+[2015.10.28-20.09.46:976][507]LogBlueprint:Warning: [compiler ladderBP] Warning [7292.10] Compile of ladderBP successful, but with 4 Warning(s) [in 74 ms]
+[2015.10.28-20.09.46:982][507]LogBlueprint:Warning: [compiler ladderBP] Warning [7292.11] Compile of ladderBP successful, but with 5 Warning(s) [in 6 ms]
+[2015.10.28-20.09.46:983][507]LogBlueprint:Warning: [compiler ladderBP] Warning [7292.11] Compile of ladderBP successful, but with 6 Warning(s) [in 0 ms]
+[2015.10.28-20.09.46:983][507]LogPlayLevel: PlayLevel: Blueprint regeneration took 159 ms (1 blueprints)
+[2015.10.28-20.09.47:037][507]PIE: New page: PIE session: FirstPersonLadderMap (Oct 28, 2015, 12:09:47 PM)
+[2015.10.28-20.09.47:037][507]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap
+[2015.10.28-20.09.47:070][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032551s)
+[2015.10.28-20.09.47:073][507]LogAIModule: Creating AISystem for world FirstPersonLadderMap
+[2015.10.28-20.09.47:074][507]LogPlayLevel: PIE: World Init took: (0.003599s)
+[2015.10.28-20.09.47:074][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap (0.036906s)
+[2015.10.28-20.09.47:138][507]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.10.28-20.09.47:150][507]LogInit: FAudioDevice initialized.
+[2015.10.28-20.09.47:186][507]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.10.28-20.09.47:193][507]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.09.47:195][507]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap up for play (max tick rate 0) at 2015.10.28-16.09.47
+[2015.10.28-20.09.47:195][507]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameSession_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.09.47:195][507]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameNetworkManager_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.09.47:196][507]LogWorld: Bringing up level for play took: 0.008976
+[2015.10.28-20.09.47:224][507]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap -0.105
+[2015.10.28-20.09.47:224][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.09.49:138][648]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.49:825][703]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.50:305][738]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.50:578][759]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.50:747][772]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.50:916][785]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.51:059][796]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.51:230][809]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.51:368][820]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.53:943][ 29]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.54:567][ 81]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.55:615][168]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.56:922][275]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.57:063][287]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.57:213][300]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.09.57:374][313]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.00:952][601]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.03:239][786]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.04:032][852]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.04:385][881]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.04:574][897]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.05:172][947]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.11:314][446]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.11:517][463]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.11:672][476]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.11:827][489]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.11:989][502]LogBlueprintUserMessages: [ladderBP_C_0] yep
+[2015.10.28-20.10.17:318][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.10.17:410][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.10.17:503][948]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001A97F240
+[2015.10.28-20.10.55:904][705]LogSavePackage: Save=168.238495ms
+[2015.10.28-20.10.55:905][705]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/FirstPersonLadderMap28AF137A4602794CA9D41AA3FA9AD328.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap'
+[2015.10.28-20.10.55:911][705]LogSavePackage: Total save time: 181.525446ms
+[2015.10.28-20.10.55:911][705]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap
+[2015.10.28-20.10.55:970][705]LogFileHelpers: Saving map 'FirstPersonLadderMap' took 0.401
+[2015.10.28-20.10.56:001][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ladderBP" FILE="../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset" SILENT=true
+[2015.10.28-20.10.56:070][705]LogSavePackage: Save=60.801506ms
+[2015.10.28-20.10.56:070][705]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/ladderBP48446FCD44B56021527C5681CD35C324.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset'
+[2015.10.28-20.10.56:073][705]LogSavePackage: Total save time: 70.424955ms
+[2015.10.28-20.10.56:073][705]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset
+[2015.10.28-20.10.58:408][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.10.58:409][883]BlueprintLog: New page: Pre-Play auto-recompile
+[2015.10.28-20.10.58:418][883]LogPlayLevel: [PlayLevel] Compiling ladderBP before play...
+[2015.10.28-20.10.58:503][883]LogPlayLevel: PlayLevel: Blueprint regeneration took 94 ms (1 blueprints)
+[2015.10.28-20.10.58:562][883]PIE: New page: PIE session: FirstPersonLadderMap (Oct 28, 2015, 12:10:58 PM)
+[2015.10.28-20.10.58:562][883]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap
+[2015.10.28-20.10.58:593][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031000s)
+[2015.10.28-20.10.58:596][883]LogAIModule: Creating AISystem for world FirstPersonLadderMap
+[2015.10.28-20.10.58:596][883]LogPlayLevel: PIE: World Init took: (0.002641s)
+[2015.10.28-20.10.58:597][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap (0.034376s)
+[2015.10.28-20.10.58:663][883]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.10.28-20.10.58:674][883]LogInit: FAudioDevice initialized.
+[2015.10.28-20.10.58:714][883]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.10.28-20.10.58:721][883]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.10.58:722][883]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap up for play (max tick rate 0) at 2015.10.28-16.10.58
+[2015.10.28-20.10.58:723][883]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameSession_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.10.58:723][883]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameNetworkManager_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.10.58:724][883]LogWorld: Bringing up level for play took: 0.008595
+[2015.10.28-20.10.58:726][883]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap -0.605
+[2015.10.28-20.10.58:726][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.11.02:913][197]PIE:Warning: Warning FirstPersonCharacter_C_1.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2015.10.28-20.11.03:516][247]PIE:Warning: Warning FirstPersonCharacter_C_1.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2015.10.28-20.11.08:444][650]PIE:Warning: Warning FirstPersonCharacter_C_1.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2015.10.28-20.11.18:601][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.11.18:685][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.11.18:752][468]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000007534DB20
+[2015.10.28-20.20.07:558][665]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'FirstPersonCharacter', cached variable property's owner is '/Script/Engine.Character'
+[2015.10.28-20.20.26:515][172]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.20.26:533][172]LogBlueprintUserMessages: PostEditorRefresh for Blueprint 'FirstPersonCharacter', cached variable property's owner is '/Script/Engine.Character'
+[2015.10.28-20.20.33:599][789]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'FirstPersonCharacter', cached variable property's owner is '/Script/Engine.Character'
+[2015.10.28-20.20.41:320][436]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'FirstPersonCharacter', cached variable property's owner is '/Script/Engine.Character'
+[2015.10.28-20.20.47:484][890]LogSavePackage: Save=197.506256ms
+[2015.10.28-20.20.47:484][890]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/FirstPersonLadderMap603B6AC247CA8FD2F9B56CA5283ACE78.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap'
+[2015.10.28-20.20.47:491][890]LogSavePackage: Total save time: 232.478075ms
+[2015.10.28-20.20.47:491][890]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap
+[2015.10.28-20.20.47:564][890]LogFileHelpers: Saving map 'FirstPersonLadderMap' took 0.472
+[2015.10.28-20.20.47:739][890]LogSavePackage: Save=151.853180ms
+[2015.10.28-20.20.47:739][890]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/FirstPersonCharacterAFD23B164F4518F04263DFAB75092D9D.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2015.10.28-20.20.47:758][890]LogSavePackage: Total save time: 181.355577ms
+[2015.10.28-20.20.47:758][890]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2015.10.28-20.20.50:580][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.20.50:580][ 35]BlueprintLog: New page: Pre-Play auto-recompile
+[2015.10.28-20.20.50:582][ 35]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.20.50:604][ 35]LogBlueprintUserMessages: PostEditorRefresh for Blueprint 'FirstPersonCharacter', cached variable property's owner is '/Script/Engine.Character'
+[2015.10.28-20.20.50:608][ 35]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2015.10.28-20.20.50:671][ 35]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.20.50:910][ 35]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.20.50:922][ 35]LogBlueprintUserMessages: PostEditorRefresh for Blueprint 'FirstPersonCharacter', cached variable property's owner is '/Script/Engine.Character'
+[2015.10.28-20.20.50:925][ 35]LogPlayLevel: PlayLevel: Blueprint regeneration took 344 ms (1 blueprints)
+[2015.10.28-20.20.50:991][ 35]PIE: New page: PIE session: FirstPersonLadderMap (Oct 28, 2015, 12:20:50 PM)
+[2015.10.28-20.20.50:992][ 35]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap
+[2015.10.28-20.20.51:032][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040182s)
+[2015.10.28-20.20.51:034][ 35]LogAIModule: Creating AISystem for world FirstPersonLadderMap
+[2015.10.28-20.20.51:035][ 35]LogPlayLevel: PIE: World Init took: (0.002990s)
+[2015.10.28-20.20.51:036][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap (0.043868s)
+[2015.10.28-20.20.51:137][ 35]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.10.28-20.20.51:149][ 35]LogInit: FAudioDevice initialized.
+[2015.10.28-20.20.51:188][ 35]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.10.28-20.20.51:194][ 35]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.20.51:195][ 35]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap up for play (max tick rate 0) at 2015.10.28-16.20.51
+[2015.10.28-20.20.51:196][ 35]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameSession_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.20.51:196][ 35]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameNetworkManager_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.20.51:197][ 35]LogWorld: Bringing up level for play took: 0.007862
+[2015.10.28-20.20.51:209][ 35]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap -0.142
+[2015.10.28-20.20.51:209][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.20.56:620][451]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.20.56:641][451]LogBlueprintUserMessages: PostEditorRefresh for Blueprint 'FirstPersonCharacter', cached variable property's owner is '/Script/Engine.Character'
+[2015.10.28-20.20.56:802][451]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.20.56:884][451]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000071534A40
+[2015.10.28-20.21.00:079][571]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'FirstPersonCharacter', cached variable property's owner is '/Script/Engine.Character'
+[2015.10.28-20.21.07:105][108]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.21.07:105][108]BlueprintLog: New page: Pre-Play auto-recompile
+[2015.10.28-20.21.07:106][108]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.21.07:127][108]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2015.10.28-20.21.07:185][108]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.21.07:374][108]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.21.07:385][108]LogPlayLevel: PlayLevel: Blueprint regeneration took 280 ms (1 blueprints)
+[2015.10.28-20.21.07:446][108]PIE: New page: PIE session: FirstPersonLadderMap (Oct 28, 2015, 12:21:07 PM)
+[2015.10.28-20.21.07:446][108]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap
+[2015.10.28-20.21.07:492][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046370s)
+[2015.10.28-20.21.07:495][108]LogAIModule: Creating AISystem for world FirstPersonLadderMap
+[2015.10.28-20.21.07:495][108]LogPlayLevel: PIE: World Init took: (0.002833s)
+[2015.10.28-20.21.07:496][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap (0.050083s)
+[2015.10.28-20.21.07:596][108]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.10.28-20.21.07:606][108]LogInit: FAudioDevice initialized.
+[2015.10.28-20.21.07:641][108]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.10.28-20.21.07:649][108]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.21.07:650][108]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap up for play (max tick rate 0) at 2015.10.28-16.21.07
+[2015.10.28-20.21.07:650][108]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameSession_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.21.07:651][108]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameNetworkManager_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.21.07:651][108]LogWorld: Bringing up level for play took: 0.009190
+[2015.10.28-20.21.07:653][108]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap 0.302
+[2015.10.28-20.21.07:653][108]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.21.10:181][292]PIE:Warning: Warning FirstPersonCharacter_C_1.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2015.10.28-20.21.10:731][331]PIE:Warning: Warning FirstPersonCharacter_C_1.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2015.10.28-20.21.11:214][367]PIE:Warning: Warning FirstPersonCharacter_C_1.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2015.10.28-20.21.11:560][393]PIE:Warning: Warning FirstPersonCharacter_C_1.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2015.10.28-20.21.11:722][406]PIE:Warning: Warning FirstPersonCharacter_C_1.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2015.10.28-20.21.11:900][420]PIE:Warning: Warning FirstPersonCharacter_C_1.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2015.10.28-20.21.18:072][897]PIE:Warning: Warning FirstPersonCharacter_C_1.CollisionCylinder has to have 'Simulate Physics' enabled if you'd like to AddForce. 
+[2015.10.28-20.21.22:122][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.21.22:303][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.21.22:375][198]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000727DC900
+[2015.10.28-20.21.28:237][578]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.21.31:770][891]Cmd: TRANSACTION UNDO
+[2015.10.28-20.21.31:770][891]LogEditorTransaction: Undo Delete current selection
+[2015.10.28-20.21.31:822][891]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.21.31:827][891]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire) Component already registered.
+[2015.10.28-20.21.31:827][891]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.21.31:829][891]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.BillboardComponent_3) Component already registered.
+[2015.10.28-20.21.31:831][891]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.Cylinder) Component already registered.
+[2015.10.28-20.21.31:842][891]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.21.31:842][891]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.21.31:856][891]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.22.07:647][110]LogBlueprintUserMessages: CustomizeDetails for Blueprint 'ladderBP', cached variable property's owner is '/Script/Engine.StaticMeshActor'
+[2015.10.28-20.22.19:584][109]LogSavePackage: Save=219.181915ms
+[2015.10.28-20.22.19:585][109]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/FirstPersonLadderMap5C26E1B84D6F5A6BBE451BAF63432050.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap'
+[2015.10.28-20.22.19:589][109]LogSavePackage: Total save time: 229.501825ms
+[2015.10.28-20.22.19:589][109]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Maps/FirstPersonLadderMap.umap
+[2015.10.28-20.22.19:662][109]LogFileHelpers: Saving map 'FirstPersonLadderMap' took 1.252
+[2015.10.28-20.22.19:832][109]LogSavePackage: Save=154.186417ms
+[2015.10.28-20.22.19:832][109]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/FirstPersonCharacter1FD274494D37A89C65553A94C62A1890.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2015.10.28-20.22.19:837][109]LogSavePackage: Total save time: 165.118556ms
+[2015.10.28-20.22.19:837][109]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2015.10.28-20.22.19:877][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/ladderBP" FILE="../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset" SILENT=true
+[2015.10.28-20.22.19:966][109]LogSavePackage: Save=72.729866ms
+[2015.10.28-20.22.19:966][109]LogSavePackage: Moving '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Saved/ladderBPF08630D745DAA3B54B8776BDDDB0A3EF.tmp' to '../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset'
+[2015.10.28-20.22.19:972][109]LogSavePackage: Total save time: 92.708256ms
+[2015.10.28-20.22.19:972][109]LogSavePackage:Warning: Finished SavePackage ../../../../../../Users/eldrer/Documents/Game Dev 1/Project 3D/Content/FirstPersonBP/Blueprints/ladderBP.uasset
+[2015.10.28-20.22.25:833][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap'
+[2015.10.28-20.22.25:834][469]BlueprintLog: New page: Pre-Play auto-recompile
+[2015.10.28-20.22.25:835][469]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.22.25:860][469]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2015.10.28-20.22.25:919][469]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.22.26:112][469]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.22.26:124][469]LogPlayLevel: PlayLevel: Blueprint regeneration took 290 ms (2 blueprints)
+[2015.10.28-20.22.26:132][469]LogPlayLevel: [PlayLevel] Compiling ladderBP before play...
+[2015.10.28-20.22.26:211][469]LogPlayLevel: PlayLevel: Blueprint regeneration took 377 ms (2 blueprints)
+[2015.10.28-20.22.26:267][469]PIE: New page: PIE session: FirstPersonLadderMap (Oct 28, 2015, 12:22:26 PM)
+[2015.10.28-20.22.26:267][469]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap
+[2015.10.28-20.22.26:377][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110018s)
+[2015.10.28-20.22.26:378][469]LogAIModule: Creating AISystem for world FirstPersonLadderMap
+[2015.10.28-20.22.26:378][469]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2015.10.28-20.22.26:379][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap (0.111998s)
+[2015.10.28-20.22.26:460][469]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.10.28-20.22.26:472][469]LogInit: FAudioDevice initialized.
+[2015.10.28-20.22.26:510][469]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.10.28-20.22.26:516][469]LogPrimitiveComponent: Zero scaling not supported (/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonCharacter_C_1.CandleFire)
+[2015.10.28-20.22.26:517][469]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap up for play (max tick rate 0) at 2015.10.28-16.22.26
+[2015.10.28-20.22.26:518][469]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameSession_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.22.26:518][469]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.GameNetworkManager_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.10.28-20.22.26:518][469]LogWorld: Bringing up level for play took: 0.007493
+[2015.10.28-20.22.26:520][469]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonLadderMap 1.167
+[2015.10.28-20.22.26:520][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonLadderMap.FirstPersonLadderMap:PersistentLevel.FirstPersonLadderMap' with Gen
